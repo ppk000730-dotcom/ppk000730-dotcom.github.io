@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "enabled": true,
+  "freeUntilStage": 0,
+  "everyNStages": 5,
+  "minSecondsBetween": 60,
+  "remoteUrl": "https://ppk000730-dotcom.github.io/ad_schedule.json",
+  "bands": [
+    { "from": 0, "every": 20 },
+    { "from": 60, "every": 10 },
+    { "from": 100, "every": 5 }
+  ]
+}
