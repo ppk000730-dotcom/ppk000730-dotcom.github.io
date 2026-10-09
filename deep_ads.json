@@ -1,7 +1,8 @@
 {
-  "version": 1,
-  "note": "빛의 봉인 심화 전면 광고 : '다음 판'을 누른 횟수 기준. from 번째부터 every 번마다 한 번. every 0 = 전면 광고 끔. minSecondsBetween = 두 광고 사이 최소 초",
+  "version": 2,
+  "note": "빛의 봉인 심화 전면 광고 : '다음 판'을 누른 횟수 기준. from 번째부터 every 번마다 한 번. every 0 = 전면 광고 끔. minSecondsBetween = 두 광고 사이 최소 초. banner true/false = 게임판 아래 배너 켜기/끄기",
   "from": 5,
   "every": 5,
-  "minSecondsBetween": 60
+  "minSecondsBetween": 60,
+  "banner": false
 }
